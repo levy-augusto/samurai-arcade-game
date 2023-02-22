@@ -1,7 +1,8 @@
 <p align="center">
  <img width="100px" src="https://chriscourses.com/brand/planetFightingGame.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Samurai Arcade Game</h2>
- <p align="center">This game was developed by Chriscourses in his game tutorial of his youtube channel</p>
+ <p align="center">
+Repository created with the purpose of learning. This game was developed by Chriscourses in his game tutorial of his youtube channel</p>
 
   <p align="center">
     <a href="https://samurai-arcade.netlify.app">View Demo</a>
