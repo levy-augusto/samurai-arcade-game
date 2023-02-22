@@ -11,7 +11,7 @@ Repository created with the purpose of learning. This game was developed by Chri
     ·
     <a href="https://www.youtube.com/@ChrisCourses" target="_blank">Youtube Channel</a>
     ·
-    <a href="https://github.com/chriscourses" target="_blank">Chriscourses</a>
+    <a href="https://github.com/chriscourses" target="_blank">GitHub Chriscourses</a>
   </p>
 </p>
 
