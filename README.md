@@ -5,13 +5,13 @@
 Repository created with the purpose of learning. This game was developed by Chriscourses in his game tutorial of his youtube channel</p>
 
   <p align="center">
-    <a href="https://samurai-arcade.netlify.app">View Demo</a>
+    <a href="https://samurai-arcade.netlify.app" target="_blank">View Demo</a>
     ·
-    <a href="https://youtu.be/vyqbNFMDRGQ">Video Tutorial</a>
+    <a href="https://youtu.be/vyqbNFMDRGQ" target="_blank">Video Tutorial</a>
     ·
-    <a href="https://www.youtube.com/@ChrisCourses">Youtube Channel</a>
+    <a href="https://www.youtube.com/@ChrisCourses" target="_blank">Youtube Channel</a>
     ·
-    <a href="https://github.com/chriscourses">Chriscourses</a>
+    <a href="https://github.com/chriscourses" target="_blank">Chriscourses</a>
   </p>
 </p>
 
